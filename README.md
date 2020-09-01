@@ -8,4 +8,6 @@ https://realpython.com/what-is-pip/
 
 Pip env 
 
-https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref 
+***https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref***
+
+
