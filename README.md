@@ -11,6 +11,10 @@ https://realpython.com/what-is-pip/
 
 https://docs.python-guide.org/starting/install3/linux/#install3-linux
 
+***donwload python any version***
+
+https://www.python.org/downloads/release/python-342/
+
 ***Pip env and virtual environment setup***
 
 https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref
