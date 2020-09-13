@@ -23,4 +23,8 @@ https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref
 
 https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/ 
 
+***style guide for python code***
+
+https://legacy.python.org/dev/peps/pep-0008/
+
 
