@@ -19,7 +19,8 @@ https://www.python.org/downloads/release/python-342/
 
 https://docs.python-guide.org/dev/virtualenvs/#virtualenvironments-ref
 
+***setup python code editor sublime3*****
 
-
+https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/ 
 
 
