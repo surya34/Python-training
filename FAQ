@@ -1,0 +1,8 @@
+Dictionary vs list 
+
+- when to choose a Dictionary and list ? 
+
+  Dictionaries are key value pair and unorganized and cannot be sorted , good time to use dictionary is to query a value without knowing its index position . 
+  Lists are objects which can be sorted based on Indexes . 
+  
+  
