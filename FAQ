@@ -5,4 +5,32 @@ Dictionary vs list
   Dictionaries are key value pair and unorganized and cannot be sorted , good time to use dictionary is to query a value without knowing its index position . 
   Lists are objects which can be sorted based on Indexes . 
   
+  Tuples - Tuples are immutable means we cannot change the index postion or add additioal objects . 
+  
+  syntax , t=('a',1,'f') 
+  
+  
+  Resource for practise 
+  
+  Before you begin your assessment, I wanted to point out some helpful links for practice (don't worry about being able to do these exercises, I just want you to be aware of the links so you can visit them later, since we still haven't discussed functions, you won't be able to utilize a lot of these resources yet!):
+
+Basic Practice:
+
+http://codingbat.com/python
+
+More Mathematical (and Harder) Practice:
+
+https://projecteuler.net/archives
+
+List of Practice Problems:
+
+http://www.codeabbey.com/index/task_list
+
+A SubReddit Devoted to Daily Practice Problems:
+
+https://www.reddit.com/r/dailyprogrammer
+
+A very tricky website with very few hints and touch problems (Not for beginners but still interesting)
+
+http://www.pythonchallenge.com/
   
