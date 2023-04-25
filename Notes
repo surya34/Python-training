@@ -1,0 +1,34 @@
+04/23 
+
+- Python is Dynamic typing meaning once a variable is assigned to a data type the same variable can be re-assigned to a differrent data type , whereas other languages 
+  are static typing. 
+ 
+  Ex: test = 1 , test = ["pass","fail"] 
+  
+ - Type function in python is used to describe the data type 
+ 
+   Ex: usage a = 1 , type(a) 
+   
+- Indexing and Slicing
+
+  Ex:  S U R Y A 
+  
+       0 1 2 3 4 <- indexing 
+       
+  usage : 
+  
+  - Slicing : syntax [start:stop:step] 
+  
+  start this is where we start the slicing and stop is where we stop and does not include that specific postion and step is the jump we take in slicing . 
+  
+  04/24
+  
+  - string concatenation 
+    built in string functions Ex: upper , lower , split 
+  
+  - string formatting 
+  
+    - .format() 
+    - f-strings ( formatted string literals) 
+    
+    .format method , syntax: 'string here{} then also {}'.format('something1','something2')
