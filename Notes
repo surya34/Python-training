@@ -25,10 +25,31 @@
   
   - string concatenation 
     built in string functions Ex: upper , lower , split 
+    
+  04/25 
+  
+  To-do : check string formatting examples from notebook and practise 
+  
   
   - string formatting 
   
     - .format() 
-    - f-strings ( formatted string literals) 
+    - f-strings ( formatted string literals) - Practise on .format()  strings . 
     
     .format method , syntax: 'string here{} then also {}'.format('something1','something2')
+    
+    - Float formatting syntax : "{value:width.precision f}"
+    
+    - f-strings method
+     
+       Ex: name = "jose" 
+       
+       print (f'hello his name is {name}') 
+       
+       output - hello his name is jose
+  
+  04/26 
+  
+  - For more information on the string .format() method visit https://docs.python.org/3/library/string.html#formatstrings 
+  - For more info on formatted string literals visit https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+    
