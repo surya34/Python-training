@@ -52,4 +52,45 @@
   
   - For more information on the string .format() method visit https://docs.python.org/3/library/string.html#formatstrings 
   - For more info on formatted string literals visit https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+  - HERE IS AN AWESOME SOURCE FOR PRINT FORMATTING: https://pyformat.info/ 
+  - f-strings require Python 3.6 or higher.
+  
+  Lists : lists are mutable means objects in a list can be modified. 
+  
+  methods in list 
+  
+  - append
+  - pop
+  - sort 
+  - reverse
+  
+  Nonetype : its a retrun value in python for a function or method that returns nothing.
+  
+  
+  04/27
+  
+  - https://towardsdatascience.com/17-quick-examples-to-learn-python-lists-196070a055c3
+  
+  - Nested list 
+  - list comprehension :  https://towardsdatascience.com/11-examples-to-master-python-list-comprehensions-33c681b56212
+  
+  Dictionaries : objects stored in Key : value pair , keys should always be a string and values are flexible 
+  
+  syntax: {'key1':'value1', 'key2':'value2'} 
+  
+  - Dictionaries can hold lists and other dictionaries 
+  - ordereddict 
+  - Dictionaries are mutable but keys in dictionaries are immutable meaning keys in dictionaries can only be strings , integer or tuples . 
+  
+  dictionaries vs list 
+  
+  - Dictionaries are unordered and cannot be sorted 
+  - lists are ordered sequence that can be indexed or sliced .
+  
+  04/29 
+  
+  Dictionaries - https://www.freecodecamp.org/news/python-dictionaries-detailed-visual-introduction/ 
+ 
+ 
+ 
     
