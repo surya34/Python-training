@@ -80,7 +80,7 @@
   
   - Dictionaries can hold lists and other dictionaries 
   - ordereddict 
-  - Dictionaries are mutable but keys in dictionaries are immutable meaning keys in dictionaries can only be strings , integer or tuples . 
+  - Dictionaries are mutable but keys in dictionaries are immutable meaning keys in dictionaries can only be strings , integer or tuples and cannot be modified.
   
   dictionaries vs list 
   
@@ -89,7 +89,24 @@
   
   04/29 
   
-  Dictionaries - https://www.freecodecamp.org/news/python-dictionaries-detailed-visual-introduction/ 
+  Dictionaries - https://www.freecodecamp.org/news/python-dictionaries-detailed-visual-introduction/
+  
+  Tuples :
+  
+  - Tuples are immutable where as lists are mutale , meaning elements in tuples cannot be changes wheres as items in lists can be changes.
+  
+  
+ sets:
+ 
+ - Elements in set need to have a unique value 
+ 
+ - Opening and reading a file in Python . 
+ 
+ 05/1
+ 
+ list vs dcitionaries vs tuples - TBD 
+  
+  
  
  
  
